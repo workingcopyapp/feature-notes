@@ -1,3 +1,4 @@
 - Resolve merge conflicts side by side
 - Large files with Git LFS
 - Sign commits with SSH keys
+- Auto-Sync commits and pushes as you write
